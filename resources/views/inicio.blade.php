@@ -1,5 +1,5 @@
 @extends('layout')
 
 @section('content')
-    <h1>Inicio</h1>
+    Bienvenido a mi web
 @endsection

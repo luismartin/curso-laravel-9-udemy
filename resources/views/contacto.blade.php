@@ -1,7 +1,8 @@
 @extends('layout')
 
 @section('title', 'Contacto')
+@section('titulo', 'Contacto')
 
 @section('content')
-    <h1>Contacto</h1>
+    Formulario de contacto
 @endsection

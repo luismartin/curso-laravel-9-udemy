@@ -2,6 +2,8 @@
 
 @section('title', 'Tienda virtual')
 
+@section('titulo', 'Tienda virtual')
+
 @section('content')
-    <h1>Tienda</h1>
+    Bienvenido a la tienda virtual
 @endsection
